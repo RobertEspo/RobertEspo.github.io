@@ -1,22 +1,36 @@
 project:
   type: website
   output-dir: docs
+  render: 
+    - "*.qmd"
+  resources: 
+    - "assets"
 
 website:
-  title: "Robert Esposito"
+  title: "RME"
+  twitter-card: false
+  site-url: "https://robertespo.github.io/"
+  open-graph: true
   navbar:
+    background: white
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Research"
+        href: research.html
+      - text: "Teaching"
+        href: teaching.html
+    right:
+      - icon: github
+        href: https://github.com/RobertEspo
+  page-footer:
+    center: 
+      - text: "© Copyright 2025"
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
-    css: styles.css
+      light: ./assets/css/theme-light.scss
+      dark: [darkly, ./assets/css/theme-dark.scss]
     toc: true
 
-editor: visual
+
 
