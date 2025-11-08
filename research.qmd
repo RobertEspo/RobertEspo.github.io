@@ -39,7 +39,7 @@ I am also a proponent of Open Science. More information can be found here: <http
 ## CV
 
 <p class="relax">
-You can download my CV [here] (https://raw.githubusercontent.com/RobertEspo/RobertEspo.github.io/main/assets/cv/esposito_11-4-2025_cv.docx).
+You can download my CV [here](https://raw.githubusercontent.com/RobertEspo/RobertEspo.github.io/main/assets/cv/esposito_11-4-2025_cv.docx).
 </p>
 
 ::: 
