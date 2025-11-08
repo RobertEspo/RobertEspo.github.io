@@ -13,6 +13,8 @@ about:
       href: mailto:rme70@scarletmail.rutgers.edu
     - text: "{{< fa brands github size=2xl >}}"
       href: https://github.com/RobertEspo
+    - text: "{{< fa brands linkedin size=2x1 >}}"
+      href: https://www.linkedin.com/in/robert-esposito-4a51911a2/
 engine: knitr
 ---
 

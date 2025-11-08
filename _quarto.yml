@@ -21,6 +21,8 @@ website:
     right:
       - icon: github
         href: https://github.com/RobertEspo
+      - icon: linkedin
+        href: https://www.linkedin.com/in/robert-esposito-4a51911a2/
   page-footer:
     center: 
       - text: "© Copyright 2025"
