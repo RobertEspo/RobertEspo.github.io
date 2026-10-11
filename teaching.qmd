@@ -12,8 +12,17 @@ engine: knitr
 ## Undergraduate
 
 -   Intro to the Study of Language
+-   Beginner Spanish 2 (online)
+-   Advanced Composition and Introduction to Translation Studies
+-   Intro to Translation
 
 ## Invited Talks
 
 -   Real-time processing of speech sounds
 -   Plots that tell a story: The importance of plots in college writing
+-   How to make a personal website in R
+-   Raising a bilingual child
+-   Ser bilingüe brinda mejores oportunidades académicas
+-   Lengua y herencia
+-   An introduction to eye-tracking for grade-school students
+-   An introduction to coding in R
